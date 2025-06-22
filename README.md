@@ -2,7 +2,7 @@
 [![Telegram Bot](https://img.shields.io/badge/Launch%20Bot-@SumMateBot-2CA5E0?logo=telegram&style=for-the-badge)](https://t.me/SumMateBot)
 
 > **Clean. Instant. Smart.**  
-> CalcMaster is your reliable calculator in Telegram — just type a math problem, and get instant results. From simple sums to complex expressions, it handles it all effortlessly.
+> Sum Mate is your reliable calculator in Telegram — just type a math problem, and get instant results. From simple sums to complex expressions, it handles it all effortlessly.
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## 🧠 Use Case
 
-Whether you’re a student, group admin, or math hobbyist, CalcMaster is the easiest way to solve calculations right inside Telegram.
+Whether you’re a student, group admin, or math hobbyist, Sum Mate is the easiest way to solve calculations right inside Telegram.
 
 > No more switching apps. Just send the math and get the answer.
 
