@@ -1,5 +1,5 @@
-# 🧮 CalcMaster — Telegram Math Calculator Bot  
-[![Telegram Bot](https://img.shields.io/badge/Launch%20Bot-@YourBotUsername-2CA5E0?logo=telegram&style=for-the-badge)](https://t.me/YourBotUsername)
+# 🧮 Sum Mate — Calculator Bot  
+[![Telegram Bot](https://img.shields.io/badge/Launch%20Bot-@SumMateBot-2CA5E0?logo=telegram&style=for-the-badge)](https://t.me/SumMateBot)
 
 > **Clean. Instant. Smart.**  
 > CalcMaster is your reliable calculator in Telegram — just type a math problem, and get instant results. From simple sums to complex expressions, it handles it all effortlessly.
@@ -47,7 +47,7 @@ Whether you’re a student, group admin, or math hobbyist, CalcMaster is the eas
 
 ## 🚀 Getting Started
 
-1. Go to [@YourBotUsername](https://t.me/YourBotUsername)  
+1. Go to [@SumMateBot](https://t.me/SumMateBot)  
 2. Press `/start`  
 3. Try messages like:
    - `7+3`
@@ -92,7 +92,7 @@ Whether you’re a student, group admin, or math hobbyist, CalcMaster is the eas
 ## 👨‍💻 Developed By
 
 **Asadul Islam (Asad)**  
-Telegram Bot: [@YourBotUsername](https://t.me/YourBotUsername)
+Telegram: [@asad_ofc](https://t.me/asad_ofc)
 
 ---
 
@@ -119,4 +119,4 @@ Feel free to fork, modify, and deploy — just keep the credits alive! ❤️
 
 ---
 
-> **CalcMaster** — *Because even bots can do quick math faster than humans.*
+> **Sum Mate** — *Even bots can do quick math faster than humans.*
